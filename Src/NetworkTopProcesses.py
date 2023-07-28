@@ -1,4 +1,4 @@
-sudimport psutil
+import psutil
 import matplotlib.pyplot as plt
 from tabulate import tabulate
 
